@@ -1,2 +1,2 @@
 # klipper-config
-Klipper config for my Ender 3 V2
+Pretty standard config for Ender 3 V2 with BLtouch and PEI spring steel bed.
